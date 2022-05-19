@@ -1,0 +1,27 @@
+{
+  "name": "w8-d1-homework",
+  "version": "1.0.0",
+  "main": "files.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habil-tabesh/W8-D1-HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habil-tabesh/W8-D1-HW/issues"
+  },
+  "homepage": "https://github.com/habil-tabesh/W8-D1-HW#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21"
+  }
+}
